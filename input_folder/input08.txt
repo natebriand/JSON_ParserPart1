@@ -1,0 +1,30 @@
+{
+  "project": {
+    "title": "Smart Home Automation",
+    "description": "An IoT-based system to automate home devices.",
+    "teamMembers": [
+      {
+        "name": "John Doe",
+        "role": "Team Lead",
+        "tasks": ["System Architecture", "Device Integration"]
+      },
+      {
+        "name": "Jane Smith",
+        "role": "Backend Developer",
+        "tasks": ["API Development", "Database Design"]
+      },
+      {
+        "name": "Alex Brown",
+        "role": "Frontend Developer",
+        "tasks": ["UI/UX Design", "Mobile App"]
+      }
+    ],
+    "technologies": ["Node.js", "React", "MongoDB", "Raspberry Pi"],
+    "budget": {
+      "initial": 5000,
+      "spent": 3200,
+      "remaining": 1800
+    },
+    "deadline": "2024-12-31"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "manufacturer": "Apple",
+  "model": "iPhone 14",
+  "color": "Black",
+  "storageCapacity": "128GB",
+  "price": 999,
+  "releaseYear": 2023
+}

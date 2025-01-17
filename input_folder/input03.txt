@@ -1,0 +1,6 @@
+{
+ "temperature": 25,
+ "weather": "sunny",
+ "rainExpected": false,
+ "info": ["NYC", "null", "99"]
+}

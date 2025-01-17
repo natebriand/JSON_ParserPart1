@@ -1,0 +1,19 @@
+{
+  "library": {
+    "name": "Central Library",
+    "location": "Downtown",
+    "books": [
+      {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "available": true
+      },
+      {
+        "title": "1984",
+        "author": "George Orwell",
+        "available": false
+      }
+    ],
+    "membershipActive": true
+  }
+}

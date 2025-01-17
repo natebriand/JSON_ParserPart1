@@ -1,0 +1,32 @@
+{
+  "order": {
+    "orderId": 98765,
+    "customer": {
+      "name": "Sarah Connor",
+      "email": "sconnor@example.com",
+      "phone": "+1-555-123-4567"
+    },
+    "items": [
+      {
+        "productId": 123,
+        "productName": "Wireless Mouse",
+        "quantity": 2,
+        "price": 2599
+      },
+      {
+        "productId": 456,
+        "productName": "Mechanical Keyboard",
+        "quantity": 1,
+        "price": 8550
+      }
+    ],
+    "shippingAddress": {
+      "street": "742 Evergreen Terrace",
+      "city": "Springfield",
+      "state": "IL",
+      "postalCode": "62704"
+    },
+    "orderDate": "2024-10-15",
+    "status": "Shipped"
+  }
+}

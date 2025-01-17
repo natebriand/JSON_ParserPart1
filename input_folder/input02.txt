@@ -1,0 +1,6 @@
+{
+  "username": "coder123",
+  "names": ["jack", 34, false],
+  "inschool": false
+}
+

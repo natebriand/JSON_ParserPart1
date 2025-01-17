@@ -1,0 +1,41 @@
+{
+  "company": "Tech Innovators Inc.",
+  "departments": [
+    {
+      "name": "Engineering",
+      "employees": [
+        {
+          "name": "Alice",
+          "role": "Software Engineer",
+          "fullTime": true
+        },
+        {
+          "name": "Bob",
+          "role": "Data Analyst",
+          "fullTime": true
+        }
+      ]
+    },
+    {
+      "name": "Marketing",
+      "employees": [
+        {
+          "name": "Charlie",
+          "role": "Social Media Manager",
+          "fullTime": false
+        },
+        {
+          "name": "David",
+          "role": "Content Creator",
+          "fullTime": true
+        }
+      ]
+    }
+  ],
+  "headquarters": {
+    "city": "Toronto",
+    "country": "Canada"
+  },
+  "founded": 2010,
+  "isPublic": false
+}

@@ -1,0 +1,11 @@
+{
+  "product": "Laptop",
+  "brand": "TechBrand",
+  "specs": {
+    "processor": "Intel i7",
+    "ram": "16GB",
+    "storage": "512GB SSD"
+  },
+  "price": 1200,
+  "available": true
+}

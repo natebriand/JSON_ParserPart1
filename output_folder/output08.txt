@@ -1,0 +1,104 @@
+<LEFTCURLY, {>
+<STRING, project>
+<COLON, :>
+<LEFTCURLY, {>
+<STRING, title>
+<COLON, :>
+<STRING, Smart Home Automation>
+<COMMA, ,>
+<STRING, description>
+<COLON, :>
+<STRING, An IoT-based system to automate home devices.>
+<COMMA, ,>
+<STRING, teamMembers>
+<COLON, :>
+<LEFTSQUARE, [>
+<LEFTCURLY, {>
+<STRING, name>
+<COLON, :>
+<STRING, John Doe>
+<COMMA, ,>
+<STRING, role>
+<COLON, :>
+<STRING, Team Lead>
+<COMMA, ,>
+<STRING, tasks>
+<COLON, :>
+<LEFTSQUARE, [>
+<STRING, System Architecture>
+<COMMA, ,>
+<STRING, Device Integration>
+<RIGHTSQUARE, ]>
+<RIGHTCURLY, }>
+<COMMA, ,>
+<LEFTCURLY, {>
+<STRING, name>
+<COLON, :>
+<STRING, Jane Smith>
+<COMMA, ,>
+<STRING, role>
+<COLON, :>
+<STRING, Backend Developer>
+<COMMA, ,>
+<STRING, tasks>
+<COLON, :>
+<LEFTSQUARE, [>
+<STRING, API Development>
+<COMMA, ,>
+<STRING, Database Design>
+<RIGHTSQUARE, ]>
+<RIGHTCURLY, }>
+<COMMA, ,>
+<LEFTCURLY, {>
+<STRING, name>
+<COLON, :>
+<STRING, Alex Brown>
+<COMMA, ,>
+<STRING, role>
+<COLON, :>
+<STRING, Frontend Developer>
+<COMMA, ,>
+<STRING, tasks>
+<COLON, :>
+<LEFTSQUARE, [>
+<STRING, UI/UX Design>
+<COMMA, ,>
+<STRING, Mobile App>
+<RIGHTSQUARE, ]>
+<RIGHTCURLY, }>
+<RIGHTSQUARE, ]>
+<COMMA, ,>
+<STRING, technologies>
+<COLON, :>
+<LEFTSQUARE, [>
+<STRING, Node.js>
+<COMMA, ,>
+<STRING, React>
+<COMMA, ,>
+<STRING, MongoDB>
+<COMMA, ,>
+<STRING, Raspberry Pi>
+<RIGHTSQUARE, ]>
+<COMMA, ,>
+<STRING, budget>
+<COLON, :>
+<LEFTCURLY, {>
+<STRING, initial>
+<COLON, :>
+<NUMBER, 5000>
+<COMMA, ,>
+<STRING, spent>
+<COLON, :>
+<NUMBER, 3200>
+<COMMA, ,>
+<STRING, remaining>
+<COLON, :>
+<NUMBER, 1800>
+<RIGHTCURLY, }>
+<COMMA, ,>
+<STRING, deadline>
+<COLON, :>
+<STRING, 2024-12-31>
+<RIGHTCURLY, }>
+<RIGHTCURLY, }>
+<EOF, -1>

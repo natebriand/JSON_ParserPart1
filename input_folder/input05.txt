@@ -1,0 +1,10 @@
+{
+  "movieTitle": "Inception",
+  "director": "Christopher Nolan",
+  "releaseYear": 2010,
+  "ratings": {
+    "imdb": 8,
+    "rottenTomatoes": 87
+  },
+  "genres": ["Action", "Sci-Fi", "Thriller"]
+}
